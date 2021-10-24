@@ -1,0 +1,35 @@
+.section-form {
+  padding: 4rem;
+  height: max-content;
+}
+
+.description {
+  margin-bottom: 2rem;
+}
+
+h1, p {
+  color: #6252A2;
+}
+
+input {
+  width: 100%;
+  border: none;
+  border-radius: 15rem;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+label input {
+  height: 2rem;
+  background: #e5e5e5;
+}
+
+input[type="button"] {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  background-color: #5eaf4a ;
+  color: white;
+  border: none;
+  padding: .5rem 0;
+  cursor: pointer;
+}
